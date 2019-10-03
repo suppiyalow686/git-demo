@@ -1,0 +1,1 @@
+In this lab, we are learning how to utilize github and learning new tricks that we can apply for git. 
